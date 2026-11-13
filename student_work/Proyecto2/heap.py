@@ -67,4 +67,3 @@ class Heap:
         ax.set_xlim(0, 1)
         ax.axis('off')
         plt.show()
-        
